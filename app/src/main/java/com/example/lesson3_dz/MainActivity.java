@@ -126,6 +126,7 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 
+    
     public void saveBitmapFile(Bitmap bitmap) {
         loadBtn.setVisibility(View.INVISIBLE);
         convertBtn.setVisibility(View.INVISIBLE);
